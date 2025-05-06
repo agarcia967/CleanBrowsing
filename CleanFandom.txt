@@ -5,7 +5,6 @@ fandom.com##.global-explore-navigation
 ! Pre-content Ad Bar
 fandom.com##.top-ads-container
 
-
 ! Right Ad bar
 fandom.com##.page__right-rail
 fandom.com##.right-rail-wrapper
