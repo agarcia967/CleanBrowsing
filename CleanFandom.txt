@@ -16,6 +16,10 @@ fandom.com##.right-rail-wrapper
 fandom.com##.WikiaRail
 fandom.com##.wds-viewability-slider
 
+! In-Content Video Ads
+fandom.com#incontent_player
+fandom.com##.gpt-ad
+
 ! Bottom Ad Bar
 fandom.com##.bottom-ads-container
 
