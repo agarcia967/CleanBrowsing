@@ -1,5 +1,5 @@
 # CleanFandom
-Fandom has taken over every Wiki for gaming and other types of fandoms, resulting in a corporate, bloated, ad-heavy experience. This filter intends to clean up the Fandom website of annoying ads and additional content.
+Fandom has taken over just about every Wiki for gaming and other types of fandoms, resulting in a corporate, bloated, ad-heavy experience. This filter list intends to clean up the Fandom website of annoying ads and excess content.
 
 While this filter list is quite helpful, there are other resources out there that could use your support for their initiatives.
 
@@ -32,6 +32,12 @@ To install in Brave:
 4. Enter "brave://settings/shields/filters" into your Brave address bar.
 5. Scroll down to "Add custom filter lists".
 6. Paste the address from step 3 into the "Enter filter list URL" text field and click "Add".
+
+To install in Firefox (tested), Edge (untested), Chrome (untested):
+1. Install the uBlock Origin Extension.
+2. Follow the instructions to install custom filter lists on the [uBlock GitHub page](https://github.com/gorhill/ublock/wiki/Dashboard:-Filter-lists#3rd-party-filter-lists).
+
+Please don't use MS Edge or Google Chrome, use Brave or some other Privacy respecting Browser instead.
 
 # FAQ
 Q: There's still a big empty panel on the left side. What's up with that?
