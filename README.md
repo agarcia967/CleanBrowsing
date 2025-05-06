@@ -46,4 +46,4 @@ It appears that Safari does not support Custom Filter Lists either natively nor 
 # FAQ
 Q: There's still a big empty panel on the left side. What's up with that?
 
-A: Unfortunately, this is not an element in an of itself, it is a margin from the main content, so it can't be fixed with a simple filter list. However, you can make it smaller. Simply click inside the empty box, and then refresh the page. It will usually go away.
+A: Unfortunately, this is not an element in an of itself, it is a margin from the main content, so it can't be fixed with a simple filter list. However, you can make it smaller. Simply click the "Expand" button in the upper-left and then refresh the page. It will usually go away.
