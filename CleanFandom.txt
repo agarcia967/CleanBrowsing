@@ -7,6 +7,11 @@ fandom.com##.community-header-wrapper
 fandom.com##.fandom-community-header__local-navigation
 fandom.com##.fandom-community-header
 
+! Right Ad bar
+fandom.com##.right-rail-wrapper
+fandom.com##.WikiaRail
+fandom.com##.wds-viewability-slider
+
 ! Floating Notification pop-up (lower left)
 fandom.com##.notifications-placeholder
 
