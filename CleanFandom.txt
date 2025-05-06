@@ -2,9 +2,6 @@
 fandom.com##.global-explore-navigation__top
 fandom.com##.global-explore-navigation
 
-! Slide Down Top Navigation bar
-fandom.com##.community-header-wrapper
-
 ! Pre-content Ad Bar
 fandom.com##.top-ads-container
 
