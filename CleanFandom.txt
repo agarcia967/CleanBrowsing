@@ -8,6 +8,7 @@ fandom.com##.fandom-community-header__local-navigation
 fandom.com##.fandom-community-header
 
 ! Right Ad bar
+fandom.com##.page__right-rail
 fandom.com##.right-rail-wrapper
 fandom.com##.WikiaRail
 fandom.com##.wds-viewability-slider
