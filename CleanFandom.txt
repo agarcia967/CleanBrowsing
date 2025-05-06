@@ -4,8 +4,6 @@ fandom.com##.global-explore-navigation
 
 ! Pre-content Ad Bar
 fandom.com##.top-ads-container
-fandom.com##.fandom-community-header__local-navigation
-fandom.com##.fandom-community-header
 
 ! Right Ad bar
 fandom.com##.page__right-rail
