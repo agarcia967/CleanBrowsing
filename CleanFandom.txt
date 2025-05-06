@@ -6,6 +6,7 @@ fandom.com##.global-explore-navigation
 fandom.com##.community-header-wrapper
 
 ! Pre-content Ad Bar
+fandom.com##.top-ads-container
 fandom.com##.fandom-community-header__local-navigation
 fandom.com##.fandom-community-header
 
