@@ -28,16 +28,20 @@ This filter list was developed for use with [Brave Browser](https://brave.com/).
 To install in Brave:
 1. Click on the "CleanFandom.txt" in this repository.
 2. Click on the "raw" button on the far right.
-3. Copy the address from from this new plaintext github page.
-4. Enter "brave://settings/shields/filters" into your Brave address bar.
+3. Copy the address from from this new plain text GitHub page.
+4. Enter "brave://settings/shields/filters" into your address bar.
 5. Scroll down to "Add custom filter lists".
 6. Paste the address from step 3 into the "Enter filter list URL" text field and click "Add".
 
-To install in Firefox (tested), Edge (untested), Chrome (untested):
+To install in Firefox (tested), Edge (untested), or Chrome (untested):
 1. Install the uBlock Origin Extension.
 2. Follow the instructions to install custom filter lists on the [uBlock GitHub page](https://github.com/gorhill/ublock/wiki/Dashboard:-Filter-lists#3rd-party-filter-lists).
 
-Please don't use MS Edge or Google Chrome, use Brave or some other Privacy respecting Browser instead.
+It appears that Safari does not support Custom Filter Lists either natively nor with the uBlock Origin Extension.
+
+# Other Suggestions
+1. Please don't use MS Edge or Google Chrome, use Brave or some other Privacy respecting Browser instead.
+2. Click the "Expand" button in the upper-left to get more real estate for reading actual content.
 
 # FAQ
 Q: There's still a big empty panel on the left side. What's up with that?
