@@ -16,6 +16,9 @@ fandom.com##.right-rail-wrapper
 fandom.com##.WikiaRail
 fandom.com##.wds-viewability-slider
 
+! Bottom Ad Bar
+fandom.com##.bottom-ads-container
+
 ! Floating Notification pop-up (lower left)
 fandom.com##.notifications-placeholder
 
@@ -25,6 +28,3 @@ fandom.com##.WikiaBarWrapper
 ! Footer suggesting other Wikis
 fandom.com#mw-data-after-content
 fandom.com##.page-footer__trfc-147.trfc-147
-
-! Footer
-fandom.com##.global-footer__content
