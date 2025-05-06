@@ -1,0 +1,21 @@
+! Left Navigation Panel
+fandom.com##.global-explore-navigation__top
+fandom.com##.global-explore-navigation
+
+! Pre-content Ad Bar
+fandom.com##.community-header-wrapper
+fandom.com##.fandom-community-header__local-navigation
+fandom.com##.fandom-community-header
+
+! Floating Notification pop-up (lower left)
+fandom.com##.notifications-placeholder
+
+! Floating Navigation bar (lower right)
+fandom.com##.WikiaBarWrapper
+
+! Footer suggesting other Wikis
+fandom.com#mw-data-after-content
+fandom.com##.page-footer__trfc-147.trfc-147
+
+! Footer
+fandom.com##.global-footer__content
