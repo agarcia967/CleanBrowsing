@@ -25,6 +25,14 @@ This filter list was developed for use with [Brave Browser](https://brave.com/).
   * Block fingerprinting
   * Block third-party cookies
 
+To install in Brave:
+1. Click on the "CleanFandom.txt" in this repository.
+2. Click on the "raw" button on the far right.
+3. Copy the address from from this new plaintext github page.
+4. Enter "brave://settings/shields/filters" into your Brave address bar.
+5. Scroll down to "Add custom filter lists".
+6. Paste the address from step 3 into the "Enter filter list URL" text field and click "Add".
+
 # FAQ
 Q: There's still a big empty panel on the left side. What's up with that?
 
