@@ -31,12 +31,12 @@ These filter lists were developed for use with [Brave Browser](https://brave.com
   * Block third-party cookies
 
 To install in Brave:
-1. Click on the "*.txt" file in this repository for whichever site you want to clean up.
-2. Click on the "raw" button on the far right.
+1. Click on the `*.txt` file in this repository for whichever site you want to clean up.
+2. Click on the **raw* button on the far right.
 3. Copy the address from from this new plain text GitHub page.
-4. Enter "brave://settings/shields/filters" into your address bar.
-5. Scroll down to "Add custom filter lists".
-6. Paste the address from step 3 into the "Enter filter list URL" text field and click "Add".
+4. Enter `brave://settings/shields/filters` into your address bar.
+5. Scroll down to **Add custom filter lists**.
+6. Paste the address from step 3 into the **Enter filter list URL** text field and click **Add**.
 
 To install in Firefox (tested), Edge (untested), or Chrome (untested):
 1. Install the uBlock Origin Extension.
