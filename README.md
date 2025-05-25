@@ -1,4 +1,9 @@
-# CleanFandom
+# CleanBrowsing
+
+## CleanAmazon
+Removes various elements that enable Rufus (Amazon's AI).
+
+## CleanFandom
 Fandom has taken over just about every Wiki for gaming and other types of fandoms, resulting in a corporate, bloated, ad-heavy experience. This filter list intends to clean up the Fandom website of annoying ads and excess content.
 
 While this filter list is quite helpful, there are other resources out there that could use your support for their initiatives.
@@ -6,7 +11,7 @@ While this filter list is quite helpful, there are other resources out there tha
 * https://www.wiki.gg/
 * https://breezewiki.com/
 
-# Disabled Elements
+### Disabled Elements
 * Slide Down Top Navigation bar
 * Left Navigation Panel
 * Pre-content Ad Bar
@@ -17,8 +22,8 @@ While this filter list is quite helpful, there are other resources out there tha
 * Floating Navigation bar (lower right)
 * Footer suggesting other Wikis
 
-# How to Use
-This filter list was developed for use with [Brave Browser](https://brave.com/). Other suggested settings to enable within Brave:
+## How to Use
+These filter lists were developed for use with [Brave Browser](https://brave.com/). Other suggested settings to enable within Brave:
 * "Shields Up" (required to use filter lists)
 * Advanced Controls:
   * Aggressively block trackers & ads
@@ -26,7 +31,7 @@ This filter list was developed for use with [Brave Browser](https://brave.com/).
   * Block third-party cookies
 
 To install in Brave:
-1. Click on the "CleanFandom.txt" in this repository.
+1. Click on the "*.txt" file in this repository for whichever site you want to clean up.
 2. Click on the "raw" button on the far right.
 3. Copy the address from from this new plain text GitHub page.
 4. Enter "brave://settings/shields/filters" into your address bar.
@@ -39,11 +44,11 @@ To install in Firefox (tested), Edge (untested), or Chrome (untested):
 
 It appears that Safari does not support Custom Filter Lists either natively nor with the uBlock Origin Extension.
 
-# Other Suggestions
+## Other Suggestions
 1. Please don't use MS Edge or Google Chrome, use Brave or some other Privacy respecting Browser instead.
 2. Click the "Expand" button in the upper-left to get more real estate for reading actual content.
 
 # FAQ
-Q: There's still a big empty panel on the left side. What's up with that?
+Q: For Fandom, There's still a big empty panel on the left side. What's up with that?
 
 A: Unfortunately, this is not an element in an of itself, it is a margin from the main content, so it can't be fixed with a simple filter list. However, you can make it smaller. Simply click the "Expand" button in the upper-left and then refresh the page. It will usually go away.
