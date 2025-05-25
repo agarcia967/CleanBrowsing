@@ -1,3 +1,4 @@
+amazon.com###nav-rufus-disco
 amazon.com##.nav-rufus-disco
 amazon.com##.rufus-panel-closed-to-peek.rufus-panel-container
 amazon.com##.nav-rufus-disco
