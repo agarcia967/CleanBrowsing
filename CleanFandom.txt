@@ -27,3 +27,6 @@ fandom.com##.WikiaBarWrapper
 ! Footer suggesting other Wikis
 fandom.com#mw-data-after-content
 fandom.com##.page-footer__trfc-147.trfc-147
+
+! Comments Section
+fandom.com###articleComments
