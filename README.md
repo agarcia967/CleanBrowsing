@@ -1,4 +1,5 @@
 # CleanBrowsing
+Utilizes [uBlock Origin Filter Syntax](https://github.com/gorhill/uBlock/wiki/Static-filter-syntax).
 
 ## CleanAmazon
 Removes various elements that enable Rufus (Amazon's AI).
