@@ -57,4 +57,4 @@ A: Unfortunately, this is not an element in an of itself, it is a margin from th
 
 # Donate
 Help support the project.
-bitcoin:3CACkgCxfPCiWjdq7xNqmGqezgSUjaSbBA
+bitcoin:bc1qdwmyydseju6u70wn0vg7cdeemj6z0h072qr47l
