@@ -10,3 +10,6 @@ google.com###WWNEkf
 ! Gmail
 google.com##.Zmxtcf
 google.com##.e5IPTd
+
+! Google Docs
+google.com###docs-sidekick-button-container
