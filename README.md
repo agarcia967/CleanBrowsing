@@ -24,6 +24,9 @@ While this filter list is quite helpful, there are other resources out there tha
 * Footer suggesting other Wikis
 * Comments Section
 
+## CleanGoogle
+Removes Gemini elements, buttons, and panels.
+
 ## How to Use
 These filter lists were developed for use with [Brave Browser](https://brave.com/). Other suggested settings to enable within Brave:
 * "Shields Up" (required to use filter lists)
