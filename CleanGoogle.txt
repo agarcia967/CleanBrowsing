@@ -1,5 +1,10 @@
 ! Google Drive
 google.com##.KuPsyb.Csc9C
+google.com##.KuPsyb
+google.com##.Csc9C
+google.com##.Zmxtcf.e5IPTd
+google.com##.Zmxtcf
+google.com##.e5IPTd
 google.com##.RBHQF-ksKsZd
 google.com##.VYBDae-c-d.VYBDae-c-d-Qu-gc-Ca.XyWBof
 google.com##.VYBDae-c-RLmnJb
@@ -7,6 +12,8 @@ google.com##.VYBDae-c-d-Qu-gc-Ca
 google.com##.XyWBof
 google.com###WWNEkf
 google.com##.KuPsyb.dsLvBb
+google.com##.KuPsyb
+google.com##.dsLvBb
 
 ! Gmail
 google.com##.Zmxtcf
