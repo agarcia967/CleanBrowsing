@@ -1,0 +1,6 @@
+! CleanAtlassian.txt
+! Removes Rovo AI buttons
+
+atlassian.net##div[data-testid="object-sidebar-container"]
+atlassian.net##span[data-testid="app-navigation-ai-mate"]
+atlassian.net##span[data-testid="atlassian-navigation.ui.conversation-assistant.app-navigation-ai-mate"]
