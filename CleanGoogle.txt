@@ -14,6 +14,8 @@ google.com###WWNEkf
 google.com##.KuPsyb.dsLvBb
 google.com##.KuPsyb
 google.com##.dsLvBb
+! Google Drive PDF Summarizer
+google.com##.equNN
 
 ! Gmail
 google.com##.Zmxtcf
