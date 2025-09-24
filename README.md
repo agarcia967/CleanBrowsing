@@ -2,7 +2,10 @@
 Utilizes [uBlock Origin Filter Syntax](https://github.com/gorhill/uBlock/wiki/Static-filter-syntax).
 
 ## CleanAmazon
-Removes various elements that enable Rufus (Amazon's AI).
+Removes various elements related to Rufus (Amazon's AI).
+
+## CleanAtlassian
+Removes various elements that enable Rovo AI (Atlassian's AI).
 
 ## CleanFandom
 Fandom has taken over just about every Wiki for gaming and other types of fandoms, resulting in a corporate, bloated, ad-heavy experience. This filter list intends to clean up the Fandom website of annoying ads and excess content.
