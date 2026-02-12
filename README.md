@@ -64,5 +64,7 @@ A: Unfortunately, this is not an element in an of itself, it is a margin from th
 # Donate
 Help support the project.
 
+
 lightning: zalgebar@rizful.com
+
 bitcoin: bc1qnhhjlhvw4lgw8ejnywcjxvf92s6ez27xerumwp
